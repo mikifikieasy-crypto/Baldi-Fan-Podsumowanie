@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Baldi Scorebook — twoje wyniki",
+  "short_name": "Baldi Scores",
+  "description": "Zapisuj zeszyty z Baldi’s Basics i modów.",
+  "lang": "pl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f2e9",
+  "theme_color": "#f5f2e9",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
